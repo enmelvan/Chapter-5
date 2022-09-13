@@ -1,4 +1,4 @@
-ibrary(cmdstanr)
+library(cmdstanr)
 library(beemStatic)
 data(beemDemo)
 
