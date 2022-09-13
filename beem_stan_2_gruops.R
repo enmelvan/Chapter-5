@@ -1,6 +1,7 @@
 library(cmdstanr)
 library(beemStatic)
 data(beemDemo)
+library(rstan)
 
 stan_beem <- 
 '
